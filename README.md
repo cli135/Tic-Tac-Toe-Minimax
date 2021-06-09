@@ -20,6 +20,11 @@ https://youtu.be/trKjYdBASyQ?t=109
 --main guide for coding minimax algorithm. This video has a great explanation from 1:49 - 8:20.  
 2. https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python  
 --main guide on how to do object-oriented-programming in Python  
+3. "6. Search: Games, Minimax, and Alpha-Beta" by MIT OpenCourseWare  
+https://www.youtube.com/watch?v=STjW3eH0Cik
+-- another minimax explanation, only used part of it
+4. https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/  
+-- another minimax explanation, only used part of it
 
 Other sources:  
 3. https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html  
@@ -30,7 +35,9 @@ Other sources:
 8. https://docs.python.org/3/library/random.html  
 9. https://www.guru99.com/print-without-newline-python.html  
 10. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
-11. StackOverFlow was a very useful resource for Python syntax.  
+11. StackOverFlow was a very useful resource for Python syntax.
+12. https://brilliant.org/wiki/minimax/
+13.  
 
 # How it works:
 The four files are main.py, game.py, player.py, and computer.py.
