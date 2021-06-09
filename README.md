@@ -18,12 +18,14 @@ Main sources:
 1. "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" by The Coding Train  
 https://youtu.be/trKjYdBASyQ?t=109  
 --main guide for coding minimax algorithm. This video has a great explanation from 1:49 - 8:20.  
-2. https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python  
+2. "Object-Oriented Programming (OOP) in Python 3" by by David Amos. Jul 06, 2020, Accessed May 2021.  
+https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python  
 --main guide on how to do object-oriented-programming in Python  
 3. "6. Search: Games, Minimax, and Alpha-Beta" by MIT OpenCourseWare  
 https://www.youtube.com/watch?v=STjW3eH0Cik  
 -- another minimax explanation, only used part of it
-4. https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/  
+4. "Minimax Algorithm in Game Theory | Set 1 (Introduction)" by GeeksForGeeks, rootshadow, AlexSocheathSon, jit_t, souravghosh0416  
+https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/  
 -- another minimax explanation, only used part of it
 
 Other sources:  
