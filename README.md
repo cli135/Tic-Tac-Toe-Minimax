@@ -37,9 +37,8 @@ Other sources:
 8. https://docs.python.org/3/library/random.html  
 9. https://www.guru99.com/print-without-newline-python.html  
 10. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
-11. StackOverFlow was a very useful resource for Python syntax.
-12. https://brilliant.org/wiki/minimax/
-13.  
+11. StackOverFlow was a very useful resource for Python syntax.  
+12. https://brilliant.org/wiki/minimax/  
 
 # How it works:
 The four files are main.py, game.py, player.py, and computer.py.
