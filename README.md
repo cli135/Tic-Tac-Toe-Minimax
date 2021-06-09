@@ -7,13 +7,9 @@ Your move is first. To select your move, please refer
 to the keypad below or your computer's keypad) and type
 the corresponding number. Good luck :)
 
--------------
 | 7 | 8 | 9 | 
--------------
 | 4 | 5 | 6 | 
--------------
 | 1 | 2 | 3 | 
--------------
 
 First move takes ~10 seconds for the computer to figure out its move
 
