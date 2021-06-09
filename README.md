@@ -7,9 +7,9 @@ Your move is first. To select your move, please refer
 to the keypad below or your computer's keypad) and type
 the corresponding number. Good luck :)
 
-| 7 | 8 | 9 | 
-| 4 | 5 | 6 | 
-| 1 | 2 | 3 | 
+| 7 | 8 | 9 |  
+| 4 | 5 | 6 |  
+| 1 | 2 | 3 |  
 
 First move takes ~10 seconds for the computer to figure out its move
 
@@ -19,7 +19,9 @@ https://youtu.be/trKjYdBASyQ?t=109
 --main inspiration for the minimax alg. This video has a great whiteboard explanation from 1:49 - 8:20 of minimax.
 2. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python
 --python syntax source used in computer.py
-3. 
+3. https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md
+--readme formatting
+4.  
 
 # Code details:
 The four files are main.py, game.py, player.py, and computer.py.
