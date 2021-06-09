@@ -11,7 +11,7 @@ the corresponding number. Good luck :)
 | 4 | 5 | 6 |  
 | 1 | 2 | 3 |  
 
-First move takes ~10 seconds for the computer to figure out its move
+First move takes ~10 seconds for the computer to figure out its move.
 
 # Credits / sources:
 Main sources:  
