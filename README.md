@@ -14,23 +14,23 @@ the corresponding number. Good luck :)
 First move takes ~10 seconds for the computer to figure out its move
 
 # Credits / sources: WIP
-Main sources:
-1. "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" by The Coding Train
-https://youtu.be/trKjYdBASyQ?t=109
---main guide for coding minimax algorithm. This video has a great explanation from 1:49 - 8:20.
-2. https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python
---main guide on how to do object-oriented-programming in Python
+Main sources:  
+1. "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" by The Coding Train  
+https://youtu.be/trKjYdBASyQ?t=109  
+--main guide for coding minimax algorithm. This video has a great explanation from 1:49 - 8:20.  
+2. https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python  
+--main guide on how to do object-oriented-programming in Python  
 
-Other sources:
-4. https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
-5. https://dzone.com/articles/python-class-attributes-vs-instance-attributes
-6. https://www.geeksforgeeks.org/class-instance-attributes-python/
-7. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python
-8. https://www.w3schools.com/python/gloss_python_raise.asp
-9. https://docs.python.org/3/library/random.html
-10. https://www.guru99.com/print-without-newline-python.html
-11. https://www.tutorialsteacher.com/python/public-private-protected-modifiers
-12. StackOverFlow was a very useful resource for Python syntax.
+Other sources:  
+4. https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html  
+5. https://dzone.com/articles/python-class-attributes-vs-instance-attributes  
+6. https://www.geeksforgeeks.org/class-instance-attributes-python/  
+7. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python  
+8. https://www.w3schools.com/python/gloss_python_raise.asp  
+9. https://docs.python.org/3/library/random.html  
+10. https://www.guru99.com/print-without-newline-python.html  
+11. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
+12. StackOverFlow was a very useful resource for Python syntax.  
 
 # Code details:
 The four files are main.py, game.py, player.py, and computer.py.
