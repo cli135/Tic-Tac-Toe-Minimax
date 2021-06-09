@@ -32,7 +32,7 @@ Other sources:
 10. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
 11. StackOverFlow was a very useful resource for Python syntax.  
 
-# Code details:
+# How it works:
 The four files are main.py, game.py, player.py, and computer.py.
 1. main.py guides the game flow. It creates a game, player, and computer, and uses a while loop to keep the game going.
 2. game.py has the game board. It adds 'X' and 'O' to the board and checks who has won (or if it's a tie).
