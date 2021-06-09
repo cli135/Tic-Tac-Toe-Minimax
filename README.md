@@ -13,7 +13,7 @@ the corresponding number. Good luck :)
 
 First move takes ~10 seconds for the computer to figure out its move
 
-# Credits / sources: WIP
+# Credits / sources:
 Main sources:  
 1. "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" by The Coding Train  
 https://youtu.be/trKjYdBASyQ?t=109  
@@ -22,19 +22,19 @@ https://youtu.be/trKjYdBASyQ?t=109
 --main guide on how to do object-oriented-programming in Python  
 
 Other sources:  
-4. https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html  
-5. https://dzone.com/articles/python-class-attributes-vs-instance-attributes  
-6. https://www.geeksforgeeks.org/class-instance-attributes-python/  
-7. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python  
-8. https://www.w3schools.com/python/gloss_python_raise.asp  
-9. https://docs.python.org/3/library/random.html  
-10. https://www.guru99.com/print-without-newline-python.html  
-11. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
-12. StackOverFlow was a very useful resource for Python syntax.  
+3. https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html  
+4. https://dzone.com/articles/python-class-attributes-vs-instance-attributes  
+5. https://www.geeksforgeeks.org/class-instance-attributes-python/  
+6. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python  
+7. https://www.w3schools.com/python/gloss_python_raise.asp  
+8. https://docs.python.org/3/library/random.html  
+9. https://www.guru99.com/print-without-newline-python.html  
+10. https://www.tutorialsteacher.com/python/public-private-protected-modifiers  
+11. StackOverFlow was a very useful resource for Python syntax.  
 
 # Code details:
 The four files are main.py, game.py, player.py, and computer.py.
 1. main.py guides the game flow. It creates a game, player, and computer, and uses a while loop to keep the game going.
 2. game.py has the game board. It adds 'X' and 'O' to the board and checks who has won (or if it's a tie).
 3. player.py has the input-output, which allows the user to enter their choice.
-4. computer.py has the minimax algorithm, which looks ahead multiple moves and chooses the best possible one for the computer.
+4. computer.py has the minimax algorithm, which looks ahead multiple moves and chooses the best possible one for the computer. It basically charts out every possible move path, assumes that the player will play optimally, and then picks the move that is more likely to lead to a computer win. Source (1), https://youtu.be/trKjYdBASyQ?t=109 , is very good explanation of this in more detail.
