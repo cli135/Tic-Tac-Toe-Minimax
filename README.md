@@ -17,11 +17,27 @@ First move takes ~10 seconds for the computer to figure out its move
 1. "Coding Challenge 154: Tic Tac Toe AI with Minimax Algorithm" by The Coding Train
 https://youtu.be/trKjYdBASyQ?t=109
 --main inspiration for the minimax alg. This video has a great whiteboard explanation from 1:49 - 8:20 of minimax.
+https://realpython.com/python3-object-oriented-programming/#define-a-class-in-python
+https://openbookproject.net/thinkcs/python/english3e/classes_and_objects_I.html
+https://dzone.com/articles/python-class-attributes-vs-instance-attributes
+https://www.geeksforgeeks.org/class-instance-attributes-python/
 2. https://www.kite.com/python/answers/how-to-find-the-max-value-in-a-dictionary-in-python
---python syntax source used in computer.py
-3. https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md
---readme formatting
-4.  
+3. https://realpython.com/iterate-through-dictionary-python/#iterating-through-items
+4. https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md
+5. https://stackoverflow.com/questions/24575680/new-lines-inside-paragraph-in-readme-md
+6. https://stackoverflow.com/questions/7979623/why-is-assignment-to-this-not-allowed-in-java
+7. https://stackoverflow.com/questions/44814719/can-both-the-values-and-keys-of-a-dictionary-be-integers/44814737
+8. https://stackoverflow.com/questions/5424716/how-to-check-if-string-input-is-a-number
+9. https://stackoverflow.com/questions/3106689/pointers-in-python
+10. https://stackoverflow.com/questions/47561840/python-how-can-i-separate-functions-of-class-into-multiple-files/47562412
+11. https://stackoverflow.com/questions/43715953/nameerror-class-name-is-not-defined/43716037
+12. https://www.w3schools.com/python/python_ref_dictionary.asp
+13. https://www.w3schools.com/python/gloss_python_raise.asp
+14. https://docs.python.org/3/library/random.html
+15. https://www.geeksforgeeks.org/print-without-newline-python/
+16. https://www.guru99.com/print-without-newline-python.html
+17. https://www.tutorialsteacher.com/python/public-private-protected-modifiers
+18. https://realpython.com/python-return-statement/#:~:text=In%20general%2C%20a%20function%20takes,value%2C%20either%20explicit%20or%20implicit.
 
 # Code details:
 The four files are main.py, game.py, player.py, and computer.py.
