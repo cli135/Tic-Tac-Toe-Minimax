@@ -1,5 +1,6 @@
 # Tic-Tac-Toe-Minimax
-Tic-tac-toe in the terminal, player vs. computer! The computer runs on minimax algorithm to play optimally.
+Tic-tac-toe in the terminal, player vs. computer! The computer runs on minimax algorithm to play optimally.  
+Link to play: https://replit.com/@lichr/Tic-Tac-Toe-Minimax  
 
 # How to play:
 The player is 'X' and the computer is 'O'.
