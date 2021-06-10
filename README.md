@@ -24,7 +24,7 @@ https://realpython.com/python3-object-oriented-programming/#define-a-class-in-py
 --main guide on how to do object-oriented-programming in Python  
 3. "6. Search: Games, Minimax, and Alpha-Beta" by MIT OpenCourseWare  
 https://www.youtube.com/watch?v=STjW3eH0Cik  
--- another minimax explanation, only used part of it
+-- another minimax explanation, only used part of it  
 4. "Minimax Algorithm in Game Theory | Set 1 (Introduction)" by GeeksForGeeks, rootshadow, AlexSocheathSon, jit_t, souravghosh0416  
 https://www.geeksforgeeks.org/minimax-algorithm-in-game-theory-set-1-introduction/  
 -- another minimax explanation, only used part of it
